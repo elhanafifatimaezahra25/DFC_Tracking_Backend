@@ -79,12 +79,6 @@ pytest -q
 - `services/` — logique métier (ex: `file_processing`)
 - `core/` — configuration et sécurité
 
-## Contribuer
-- Ouvrir une issue pour discuter des changements
-- Faire une branche de travail, commit clair, puis PR
 
-## Licence
-Indiquez ici la licence (ex: MIT) ou ajoutez un fichier `LICENSE`.
 
-## Contact
-Pour questions, ouvrez une issue ou contactez le mainteneur du dépôt.
+
