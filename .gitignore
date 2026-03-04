@@ -1,3 +1,22 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+.env
+.DS_Store
+.vscode/
+/*.sqlite3
 # Python
 __pycache__/
 *.py[cod]
